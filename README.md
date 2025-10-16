@@ -25,7 +25,7 @@ Currently focused on building a solid foundation in **JavaScript**, **TypeScript
 
 ---
 
-### 🌱 Current Focus  
+### 💡 Current Focus  
 Learning, experimenting, and improving as a full stack developer.  
 Working on personal projects and exploring new technologies to expand my skill set.
 
